@@ -58,13 +58,13 @@ Short description or introduction about your project.
       npx sequelize db:migrate
 
 6. **Running the Server**
-   npm start
-   Visit http://localhost:3000 in your browser.
+   npm run dev
+   or
+   yarn dev
 
-7. **API Documentation**
-   API documentation is available at http://localhost:3000/api-docs.
+   Visit http://localhost:5173 in your browser.
 
-8. **Testing**
+7. **Testing**
    Run Tests:
 
    npm test
